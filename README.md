@@ -1,5 +1,12 @@
 # Data Visualization
 
+## Important Webpages
+
+[D3 Official Site](https://d3js.org/)
+[D3 Github](https://github.com/d3/d3)
+
+## Overview
+
 1. Introduction
     - Why Data Visualization?
     - Why Write Code?
