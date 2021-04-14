@@ -4,6 +4,8 @@
 
 - [D3 Official Site](https://d3js.org/)
 - [D3 Github](https://github.com/d3/d3)
+- [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
+- [D3 in Depth](https://www.d3indepth.com/)
 
 ## Overview
 
@@ -16,13 +18,16 @@
     - What is D3? 
     - What does it do?
 3. Technology Fundamentals
-    - The Web
-    - HTML
-    - DOM
+    - [The Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+    - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+            - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
     - Developer Tools
     - Rendering and the Box Model
-    - CSS
-    - JavaScript
+    - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+            - [Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - SVG
     - Compatibility
 4. Setup
